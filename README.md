@@ -1,12 +1,12 @@
-# 🌟 3D Portfolio Website
+# 🌟 Personal 3D Portfolio Website 🌟
 
 A stunning interactive 3D portfolio website built with modern web technologies, featuring immersive WebGL animations and dynamic user interactions.
 
-## 🚀 Live Demo
+## 🚀 Live Demo 🚀
 
 **[View Live Portfolio](https://kamlesh3dportfolio.netlify.app)**
 
-## ✨ Features
+## ✨ Features ✨
 
 - **Interactive 3D Environment**: Immersive WebGL-powered 3D scenes with floating islands
 - **360° Object Rotation**: Smooth object rotations and animations
@@ -16,7 +16,7 @@ A stunning interactive 3D portfolio website built with modern web technologies, 
 - **Smooth Transitions**: Seamless navigation with GSAP animations
 - **Modern Architecture**: Built with TypeScript for type safety and maintainability
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 🛠️
 
 ### Core Technologies
 - **React.js** - Frontend framework for building user interfaces
@@ -33,7 +33,7 @@ A stunning interactive 3D portfolio website built with modern web technologies, 
 - **Vite** - Fast build tool and development server
 - **Netlify** - Cloud platform for deployment and hosting
 
-## 🎨 Key Implementations
+## 🎨 Key Implementations 🎨
 
 ### WebGL Rendering & Animations
 - Custom 3D scenes with floating island environments
@@ -47,7 +47,7 @@ A stunning interactive 3D portfolio website built with modern web technologies, 
 - Smooth page transitions and micro-interactions
 - Mobile-optimized touch interactions
 
-## 🚀 Getting Started
+## 🚀 Getting Started 🚀
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -128,10 +128,6 @@ This project is deployed on Netlify with automatic deployments from the main bra
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
